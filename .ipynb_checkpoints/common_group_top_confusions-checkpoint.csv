@@ -1,0 +1,26 @@
+true,pred,count
+Tropical diseases,zoonotic diseases,7
+Nutritional Deficiency Diseases,Cardiovascular diseases,2
+Reproductive system diseases,Endocrine and Metabolic Diseases,2
+Nutritional Deficiency Diseases,Endocrine and Metabolic Diseases,2
+zoonotic diseases,Tropical diseases,2
+Endocrine and Metabolic Diseases,Eye diseases,1
+Endocrine and Metabolic Diseases,Hematological diseases,1
+Endocrine and Metabolic Diseases,Liver disease,1
+Cancer and neoplasms,Eye diseases,1
+Cardiomyopathies,Cardiovascular diseases,1
+Cardiovascular diseases,Cardiomyopathies,1
+Cardiovascular diseases,Tropical diseases,1
+Endocrine and Metabolic Diseases,Cardiovascular diseases,1
+Hematological diseases,zoonotic diseases,1
+Hematological diseases,Muscular disorders,1
+Hematological diseases,Liver disease,1
+Eye diseases,Muscular disorders,1
+Endocrine and Metabolic Diseases,zoonotic diseases,1
+Muscular disorders,Endocrine and Metabolic Diseases,1
+Liver disease,zoonotic diseases,1
+Mental health / Psychiatric disorders,Endocrine and Metabolic Diseases,1
+Reproductive system diseases,Cancer and neoplasms,1
+Nutritional Deficiency Diseases,Muscular disorders,1
+Mental health / Psychiatric disorders,Nutritional Deficiency Diseases,1
+Reproductive system diseases,Eye diseases,1

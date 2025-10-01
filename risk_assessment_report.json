@@ -1,0 +1,101 @@
+{
+  "input": "Burning urination; frequency; urgency; pelvic pain; painful ejaculation; recurrent infections; possible fever; weak urine stream",
+  "dosha": [
+    {
+      "label": "vata",
+      "prob": 0.7975276977951664,
+      "pred": 1,
+      "threshold": 0.35
+    },
+    {
+      "label": "pitta",
+      "prob": 0.8816474324903788,
+      "pred": 1,
+      "threshold": 0.4
+    },
+    {
+      "label": "kapha",
+      "prob": 0.8559232390693053,
+      "pred": 1,
+      "threshold": 0.5
+    }
+  ],
+  "common_group_probs_raw": {
+    "Cancer and neoplasms": 0.0074962270300967075,
+    "Cardiomyopathies": 0.001361232517620921,
+    "Cardiovascular diseases": 0.0035635387500565405,
+    "Ear diseases": 0.004141996475587578,
+    "Endocrine and Metabolic Diseases": 0.003783054564205609,
+    "Eye diseases": 0.0026508658855894257,
+    "Hematological diseases": 0.0033513478493004015,
+    "Liver disease": 0.002563135075483442,
+    "Mental health / Psychiatric disorders": 0.004087861867660928,
+    "Muscular disorders": 0.004860482595305278,
+    "Nutritional Deficiency Diseases": 0.0056737647098171525,
+    "Reproductive system diseases": 0.06551553239489102,
+    "Tropical diseases": 0.005490232145083219,
+    "Urinary tract infections": 0.8812288592059119,
+    "zoonotic diseases": 0.004231868933389878
+  },
+  "dosha_boosts_applied": {
+    "Muscular disorders": 0.1,
+    "Cardiomyopathies": 0.05,
+    "Mental health / Psychiatric disorders": 0.05,
+    "Urinary tract infections": 0.1,
+    "Liver disease": 0.05,
+    "Endocrine and Metabolic Diseases": 0.05,
+    "Cancer and neoplasms": 0.05,
+    "Nutritional Deficiency Diseases": 0.05,
+    "Reproductive system diseases": 0.05
+  },
+  "top_common_groups": [
+    {
+      "group": "Urinary tract infections",
+      "prob": 0.8867647099308776
+    },
+    {
+      "group": "Reproductive system diseases",
+      "prob": 0.06293041250590392
+    },
+    {
+      "group": "Cancer and neoplasms",
+      "prob": 0.007200439987246134
+    },
+    {
+      "group": "Nutritional Deficiency Diseases",
+      "prob": 0.005449888608065055
+    },
+    {
+      "group": "Tropical diseases",
+      "prob": 0.005022474184489699
+    }
+  ],
+  "risk_level": "High",
+  "risk_anchor": {
+    "group": "Urinary tract infections",
+    "prob": 0.8867647099308776
+  },
+  "candidate_diseases_in_top_group": [
+    "Urethritis (infectious, noninfectious)",
+    "Cystitis (acute bacterial cystitis)",
+    "Interstitial cystitis (nonbacterial)",
+    "Pyelonephritis (acute bacterial)",
+    "Chronic pyelonephritis",
+    "Prostatitis (acute, chronic)",
+    "Epididymitis",
+    "Ureteritis",
+    "Perinephric abscess",
+    "Renal abscess",
+    "Urethral syndrome",
+    "Emphysematous cystitis",
+    "Emphysematous pyelonephritis",
+    "Fungal urinary tract infections (cystitis, pyelonephritis)",
+    "Catheter-associated UTI (CA-UTI)",
+    "Obstructive UTI",
+    "Recurrent UTI",
+    "Complicated UTI",
+    "Uncomplicated UTI",
+    "Uropathogenic Escherichia coli (UPEC) infection"
+  ],
+  "disclaimer": "Informational only; not a substitute for professional medical advice."
+}

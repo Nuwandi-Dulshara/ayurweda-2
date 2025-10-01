@@ -1,0 +1,16 @@
+,Cancer and neoplasms,Cardiomyopathies,Cardiovascular diseases,Ear diseases,Endocrine and Metabolic Diseases,Eye diseases,Hematological diseases,Liver disease,Mental health / Psychiatric disorders,Muscular disorders,Nutritional Deficiency Diseases,Reproductive system diseases,Tropical diseases,Urinary tract infections,zoonotic diseases
+Cancer and neoplasms,19,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Cardiomyopathies,0,19,1,0,0,0,0,0,0,0,0,0,0,0,0
+Cardiovascular diseases,0,1,18,0,0,0,0,0,0,0,0,0,1,0,0
+Ear diseases,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0
+Endocrine and Metabolic Diseases,0,0,1,0,15,1,1,1,0,0,0,0,0,0,1
+Eye diseases,0,0,0,0,0,19,0,0,0,1,0,0,0,0,0
+Hematological diseases,0,0,0,0,0,0,17,1,0,1,0,0,0,0,1
+Liver disease,0,0,0,0,0,0,0,19,0,0,0,0,0,0,1
+Mental health / Psychiatric disorders,0,0,0,0,1,0,0,0,18,0,1,0,0,0,0
+Muscular disorders,0,0,0,0,1,0,0,0,0,19,0,0,0,0,0
+Nutritional Deficiency Diseases,0,0,2,0,2,0,0,0,0,1,15,0,0,0,0
+Reproductive system diseases,1,0,0,0,2,1,1,0,0,0,0,14,0,1,0
+Tropical diseases,0,0,0,0,0,0,0,0,0,0,0,0,13,0,7
+Urinary tract infections,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0
+zoonotic diseases,1,0,0,0,1,0,0,0,0,0,0,0,2,0,16

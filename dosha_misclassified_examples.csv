@@ -1,0 +1,61 @@
+label,type,symptoms
+vata,FN,fever cough wheezing abdominal pain rash vision loss headache fatigue eosinophilia neurological symptoms rare
+vata,FN,fever chills sweating headache muscle aches myalgia fatigue malaise loss of appetite nausea vomiting abdominal pain joint pain arthralgia hepatomegaly splenomegaly hemolytic anemia jaundice dark urine thrombocytopenia leukopenia nonproductive cough sore throat weight loss depression emotional lability photophobia conjunctivitis retinopathy retinal infarcts hyperesthesia respiratory distress heart failure renal failure disseminated intravascular coagulation coma
+vata,FN,abdominal mass pain weight loss fever irritability bone pain proptosis periorbital ecchymosis hypertension diarrhea paraneoplastic opsoclonus myoclonus
+vata,FN,increased risk of blood clots deep vein thrombosis pulmonary embolism recurrent miscarriages stroke heart attack leg pain or swelling chest pain shortness of breath skin discoloration livedo reticularis easy bruising neurological symptoms headache confusion seizures fatigue pallor weakness kidney dysfunction abdominal pain visual disturbances mouth ulcers thrombocytopenia no symptoms in some cases
+vata,FN,severe pain swelling redness fever rapid tissue destruction in genital perineal area foul odor shock
+vata,FN,fever sweats malaise headache muscle pain joint pain fatigue weight loss back pain abdominal pain
+vata,FN,migratory subcutaneous swellings skin itching pain erythema edema abdominal pain nausea vomiting diarrhea fever fatigue neurological involvement paralysis radiculitis meningitis intracranial hemorrhage in severe cases ocular pain or vision loss if eye is affected
+vata,FN,recurrent episodes of fever chills headache muscle aches joint pain nausea vomiting abdominal pain rash jaundice bleeding severe cases
+vata,FN,scrotal pain swelling redness fever dysuria discharge possible testicular pain
+vata,FN,fever rash joint pain persistent severe headache myalgia chills retro orbital pain nausea vomiting fatigue
+vata,FP,enlarged thyroid with nodules weight loss palpitations heat intolerance sweating tremors insomnia nervousness atrial fibrillation fatigue
+vata,FP,abdominal pain vomiting constipation muscle weakness neuropathy psychiatric symptoms anxiety confusion hallucinations tachycardia hypertension dark urine seizures
+vata,FP,fatigue shortness of breath edema arrhythmias joint pain
+vata,FP,painless vaginal bleeding in pregnancy preterm labor malpresentation shock if severe bleeding
+vata,FP,often asymptomatic headache occipital or morning dizziness palpitations blurred vision nosebleeds fatigue shortness of breath on exertion chest discomfort sleep disturbance
+vata,FP,flushing face and upper chest diarrhea abdominal cramps wheezing shortness of breath rapid heartbeat low blood pressure during flushing episodes pellagra like skin changes due to niacin deficiency weight loss fatigue swelling of ankles right sided heart valve disease tricuspid regurgitation pulmonary stenosis facial telangiectasia
+vata,FP,binge episodes eating rapidly guilt shame no compensatory behavior weight gain
+vata,FP,painless skin papules ulcerative lesions mother yaw multiple papillomatous lesions bone joint pain periostitis deformities late lymphadenopathy
+vata,FP,preceding viral prodrome fever sore throat myalgias chest pain dyspnea palpitations fatigue syncope new heart failure arrhythmias shock severe
+vata,FP,chronic ear discharge foul smelling hearing loss ear fullness dizziness tinnitus ear pain facial weakness advanced
+pitta,FN,often asymptomatic headache occipital or morning dizziness palpitations blurred vision nosebleeds fatigue shortness of breath on exertion chest discomfort sleep disturbance
+pitta,FN,falsification of symptoms inducing illness deception frequent medical visits dramatic but inconsistent history
+pitta,FN,visual impairment night vision problems peripheral vision loss retinal pigment changes
+pitta,FN,liver dysfunction hypoglycemia lactic acidosis hepatomegaly failure to thrive vomiting muscle weakness developmental delay neurological symptoms seizures hypotonia jaundice elevated liver enzymes fatigue growth retardation
+pitta,FN,progressive muscle weakness distal and proximal difficulty swallowing muscle wasting
+pitta,FN,binge eating compensatory behaviors weight shape concerns parotid swelling enamel erosion electrolyte imbalance
+pitta,FN,hypomanic episodes increased energy impulsivity decreased sleep talkativeness distractibility depressive episodes sadness anhedonia fatigue hopelessness
+pitta,FN,ambiguous genitalia precocious puberty infertility virilization electrolyte imbalance
+pitta,FN,fatigue weakness arrhythmias heart failure organomegaly sometimes
+pitta,FN,weight loss heat intolerance sweating tremors palpitations nervousness irritability frequent bowel movements muscle weakness goiter insomnia brittle hair irregular menstruation
+pitta,FP,abdominal bloating pain early satiety urinary frequency pelvic mass fatigue weight loss abnormal bleeding ascites
+pitta,FP,enlarged breast tissue breast tenderness asymmetry psychological distress nipple sensitivity
+pitta,FP,severe fatigue confusion abdominal pain vomiting diarrhea dehydration low blood pressure shock hypoglycemia loss of consciousness coma
+pitta,FP,amenorrhea infertility hot flashes night sweats mood swings vaginal dryness osteoporosis decreased libido fatigue
+pitta,FP,penile bending during erection erectile difficulty painful intercourse
+pitta,FP,preoccupation with illness misinterpreting symptoms reassurance seeking anxiety distress despite normal tests
+pitta,FP,fever rash maculopapular pruritic arthralgia knees wrists fingers headache myalgia fatigue lymphadenopathy nausea conjunctivitis sometimes prolonged joint pain in chronic cases
+pitta,FP,abdominal mass pain weight loss fever irritability bone pain proptosis periorbital ecchymosis hypertension diarrhea paraneoplastic opsoclonus myoclonus
+pitta,FP,sudden tearing chest or back pain migrating differential arm blood pressures syncope stroke symptoms acute aortic regurgitation limb ischemia abdominal pain shock
+pitta,FP,fatigue weakness night sweats weight loss fever enlarged spleen abdominal pain or fullness easy bruising bleeding pallor anemia bone pain joint pain shortness of breath frequent infections loss of appetite early satiety skin changes itching muscle pain confusion no symptoms in some cases
+kapha,FN,craving irritability anxiety depressed mood restlessness increased appetite poor concentration withdrawal headaches
+kapha,FN,painless vaginal bleeding in pregnancy preterm labor malpresentation shock if severe bleeding
+kapha,FN,communication deficits repetitive behaviors sensory sensitivities insistence on sameness fixated interests language delay stereotypies
+kapha,FN,postmenopausal bleeding abnormal bleeding pelvic pain weight loss fatigue
+kapha,FN,traits of multiple personality disorders variable dysfunction chronic distress identity instability dysregulation
+kapha,FN,cloudy lens leukocoria strabismus nystagmus blurred vision delayed visual development poor fixation photophobia
+kapha,FN,hearing loss ear fullness tinnitus usually painless white patches on tympanic membrane
+kapha,FN,binge eating compensatory behaviors weight shape concerns parotid swelling enamel erosion electrolyte imbalance
+kapha,FN,inhibition inadequacy feelings hypersensitivity social avoidance low self esteem desire acceptance but fear rejection
+kapha,FN,edema palpitations shortness of breath heart failure tachycardia neuropathy weakness
+kapha,FP,progressive shortness of breath fatigue chest pain or pressure palpitations syncope or presyncope especially on exertion ankle swelling abdominal fullness hepatomegaly cyanosis late
+kapha,FP,excessive thirst frequent urination weight loss fatigue blurred vision initial mild symptoms progressing to insulin dependence recurrent infections
+kapha,FP,easy bruising abnormal bleeding petechiae purpura pain or redness at injection site new or worsening blood clots deep vein thrombosis pulmonary embolism skin necrosis limb pain swelling shortness of breath chest pain rapid heartbeat low platelet count pallor weakness dizziness headache
+kapha,FP,increased risk of blood clots deep vein thrombosis pulmonary embolism recurrent miscarriages stroke heart attack leg pain or swelling chest pain shortness of breath skin discoloration livedo reticularis easy bruising neurological symptoms headache confusion seizures fatigue pallor weakness kidney dysfunction abdominal pain visual disturbances mouth ulcers thrombocytopenia no symptoms in some cases
+kapha,FP,burning urination frequency mild urethral discharge pelvic pain often mild or asymptomatic
+kapha,FP,progressive muscle weakness distal and proximal difficulty swallowing muscle wasting
+kapha,FP,back pain loss of height stooped posture kyphosis fractures spine hip wrist bone fragility decreased mobility
+kapha,FP,burning urination frequency urgency suprapubic pain fever if upper tract
+kapha,FP,muscle weakness pain fatigue swelling possible skin rash
+kapha,FP,jaundice pale stools dark urine hepatomegaly splenomegaly failure to thrive ascites pruritus easy bruising portal hypertension signs
